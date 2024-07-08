@@ -1,0 +1,21 @@
+{
+  "name": "facial-recognition-blockchain",
+  "version": "1.0.0",
+  "description": "A blockchain project for facial recognition using smart contracts and CNN.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "truffle test"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2",
+    "chai": "^4.3.4",
+    "chai-as-promised": "^7.1.1",
+    "crypto-js": "^4.1.1",
+    "dotenv": "^16.0.3"
+  }
+}
